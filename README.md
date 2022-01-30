@@ -1,30 +1,32 @@
-# This is a large heading
+# Kolli Nagarjuna
 
-## This is a smaller heading
+## My personal interests
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Hello! 
+My name is Kolli nagarjuna.
+Similar to Japanese we telugu people put our sirnames before our personal names(just like Uzumaki Naruto).
+Here are some of my *interests* and *hobbies*.
 
-- This is
-- an `unordered`
-- list
+Anime I have watched
+- Naruto
+- Jujutsu Kaisen
+- My Hero Academia
+- Boruto
+- Dragonball Z
+- Deathnote
 
-1. This is
-2. an ordered
-3. list
+Places I have invested a little amount
+1. Upstox
+2. WazirX
 
-Here is `some code` in the middle of a sentence.
+The courses I have took on internet to get a job are- `Talend`,`SQL`,`Unix`
 
-```
-This is
-a block
-of code
-```
+I am on YouTube as [Nagarjuna Kolli](https://www.youtube.com/channel/UCBTVTLwBWmwVzReAzzHFcFw/).
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Photography is my life. It's the one thing I am really passionate about.
+Here is one of my favourite images of all time.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![favourite image](https://www.instagram.com/p/CMjfUHjgSlw/?utm_source=ig_web_copy_link)
 
+Thanks for visiting my profile.
 nano README.md
